@@ -29,7 +29,7 @@ const Angel/Developer name Soulsta
 
 - 🌱 I’m currently learning **C++, AWS and Ruby**
 
-- 📫 How to reach me **angelschoolstuff458@gmail.com**
+- 📫 How to reach me **ampalac2@asu.edu**
 
 - ⚡ Fun fact **I have bought 550 chicken nuggets and want to beat that record !!!**
 
