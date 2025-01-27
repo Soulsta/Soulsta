@@ -1,5 +1,5 @@
 
-<h3 align="center">A freelancing coder trying to figure out his strengths</h3>
+<h3 align="center">Just a chill guy who likes computers and cars</h3>
 <p><em>Junior Computer Science Student at<a href="https://www.asu.edu/"> Arizona State University</a><img src="https://media4.giphy.com/media/iIZ1dAo48JrnitLbi3/giphy.gif?cid=790b7611934ddf80f91f6b5bcd9cdab3a376a6c7c8addcef&rid=giphy.gif&ct=s" width="30"></br>Future Developer at????? <a href="https://tenor.com/view/please-hire-me-resume-cv-job-hire-me-gif-3885404220580414798">Your Company!</a><img src="https://media0.giphy.com/media/h3BKwhviPaZxAWL5Kt/giphy.gif?cid=6c09b9522zzsymkyf1lne37tymtyxaeshtzdwnlo7xqf0ntc&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="30">
 
 ```javascript
