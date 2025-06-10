@@ -5,7 +5,7 @@
 ```javascript
 const Angel/Developer name Soulsta
   code: [Javascript, C/C++, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Photoshop, Whatever Code editor],
+  tools: [React, Photoshop, Whatever Code editor,Linux],
   architecture: ["Frontend", "Backend", "Fullstack!!!"],
   Apart Of {
                         Program at ASU
@@ -27,7 +27,7 @@ const Angel/Developer name Soulsta
 
 - 🔭 I’m currently working on my portfolio Website **Not there yet lol**
 
-- 🌱 I’m currently learning **C++, AWS and Ruby**
+- 🌱 I’m currently learning **C++, Linux, AWS and Ruby**
 
 - 📫 How to reach me **angelpalaciosy21@gmail.com**
 
