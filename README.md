@@ -25,11 +25,12 @@ const Angel/Developer name Soulsta
 
 
 
+
 - 🔭 I’m currently working on my portfolio Website **Not there yet lol**
 
 - 🌱 I’m currently learning **C++, Linux, AWS and Ruby**
 
-- 📫 How to reach me **angelpalaciosy21@gmail.com**
+- 📫 How to reach me **angel.palacios.dev@gmail.com**
 
 - ⚡ Fun fact **I have bought 550 chicken nuggets and want to beat that record !!!**
 
