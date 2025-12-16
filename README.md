@@ -10,8 +10,7 @@ const Angel/Developer name Soulsta
   Apart Of {
                         Program at ASU
                         :"Next-Generation-Service-Corps"                         
-                        Mission-Team 27:
-                        "Science-Tech-Innovation"
+                        
 
 
                         Goal: "Looking for opportunities :)"
