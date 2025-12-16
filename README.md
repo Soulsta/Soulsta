@@ -25,9 +25,9 @@ const Angel/Developer name Soulsta
 
 
 
-- 🔭 I’m currently working on my portfolio Website **Not there yet lol**
+- 🔭 I’m currently working on my portfolio Website and therapyGPT**Not there yet lol**
 
-- 🌱 I’m currently learning **C++, Linux, AWS and Ruby**
+- 🌱 I’m currently learning **NextJs, Linux, AWS and databaseFrameworks**
 
 - 📫 How to reach me **angel.palacios.dev@gmail.com**
 
