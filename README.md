@@ -25,7 +25,7 @@ const Angel/Developer name Soulsta
 
 
 
-- 🔭 I’m currently working on my portfolio Website and therapyGPT**Not there yet lol**
+- 🔭 I’m currently working on my portfolio Website and therapyGPT **Not there yet lol**
 
 - 🌱 I’m currently learning **NextJs, Linux, AWS and databaseFrameworks**
 
